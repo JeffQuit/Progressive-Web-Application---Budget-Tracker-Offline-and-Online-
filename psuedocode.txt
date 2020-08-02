@@ -1,0 +1,10 @@
+Psuedocode:
+
+1. Set up manifest config in public folder
+2. Set up service worker js file in public folder
+3. Modify service worker file to add in files for this application
+4. Confirm Budget app is downloadable as a PWA
+5. Research how to get offline entries to populate into the application
+6. Implement code to allow downloadable PWA to push changes when the app comes online. 
+--A. Check IndexDB to see if you can save in here while offline. 
+7. Test in Developer tools via Network/App tabs for offline functionality. 
