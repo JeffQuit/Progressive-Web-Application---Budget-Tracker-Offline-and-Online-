@@ -8,3 +8,9 @@ Psuedocode:
 6. Implement code to allow downloadable PWA to push changes when the app comes online. 
 --A. Check IndexDB to see if you can save in here while offline. 
 7. Test in Developer tools via Network/App tabs for offline functionality. 
+
+Offline to Online Push:
+NoSQL IndexedDB Project 26 - Mini Project goes over this. 
+Line 138 of Index.js indicates we need IndexedDB for this
+Copying Unsolved db.js file into repo to get this to work offline
+
