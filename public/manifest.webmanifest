@@ -15,8 +15,8 @@
 	],
 	"theme_color": "#ffffff",
 	"background_color": "#ffffff",
-	"start_url": "/public/",
-	"scope": "/public/",
+	"start_url": "/",
+	"scope": "/",
 	"display": "standalone",
 	"prefer_related_applications": true
 }
